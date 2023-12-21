@@ -1,9 +1,7 @@
-# React_Food_Delivery_App
-## Preview  Link : 
-<hr/>
+# Meal Shop
 
 # Install
-  ### `git clone https://github.com/SPRHackz/React_Food_Delivery.git`
+  ### `git clone https://github.com/Usman175/MealAppTask`
   
   ###  `npm install`
   
